@@ -3,6 +3,7 @@
 > 凡事预则立，不预则不立。
 
 这个列表是根据洪康杰同学的建议，由我整理的；实践部分请惠彬原补充；各位同学可以在此基础上继续完善。
+
 供同学参考,尤其大三同学，要据此形成一个有明确时间顺序的具体计划。
 
 ## 目录
@@ -15,28 +16,26 @@
 
 ## 机器学习理论
 #### 1.机器学习课程	
--**课程视频：台湾大学李弘毅教授的[机器学习课程]**
-(https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
--课程视频：*Andrew Ng的在Stanford开设的[机器学习课程]*
-(https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
++ **课程视频：台湾大学李弘毅教授的[机器学习课程](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)**
++ 课程视频：*Andrew Ng的在Stanford开设的[机器学习课程](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)*
 
 #### 2.强化学习课程
-	-**图书：Sutton的[强化学习]**(http://incompleteideas.net/sutton/book/the-book.html)
-	-**课程视频：David Siver的[强化学习]**(https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
-	-**实践环境：[OPENAI]**(https://openai.com/)
++ **图书：Sutton的[强化学习](#http://incompleteideas.net/sutton/book/the-book.html)**
++ **课程视频：David Siver的[强化学习](#https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)**
++ **实践环境：[OPENAI](#https://openai.com/)**
 
 #### 3.图像处理
-	-**课程视频：Feifei Li在Stanford开设的[面向可视化识别的卷积神经元网络]**(http://cs231n.stanford.edu/)
++ **课程视频：Feifei Li在Stanford开设的[面向可视化识别的卷积神经元网络](http://cs231n.stanford.edu/)**
 
 #### 4.深度学习课程
-	-**图书：Sutton的[深度学习]**(http://www.deeplearningbook.org/)
-	-**课程视频：台湾大学李弘毅教授的[深度学习]**(https://www.youtube.com/watch?v=IzHoNwlCGnE&list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)
-	-**课程视频：多伦多大学Hinton教授的[深度学习]**(https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
++ **图书：Sutton的[深度学习](http://www.deeplearningbook.org/)**
++ **课程视频：台湾大学李弘毅教授的[深度学习](https://www.youtube.com/watch?v=IzHoNwlCGnE&list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)**
++ **课程视频：多伦多大学Hinton教授的[深度学习](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)**
 
 ## 数学基础	
-	-**课程视频：Gilbert Strang在MIT开设的[线性代数]**(https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)
-	-**图书：清华大学张贤达的[《矩阵分析与应用（第2版）》]**(https://item.jd.com/11367945.html)
-	-*图书：美国工程院院士Dimitri P. Bertsekas的[《Introduction to Probability》]*(https://item.jd.com/11842157.html)
++ **课程视频：Gilbert Strang在MIT开设的[线性代数](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)**
++ **图书：清华大学张贤达的[《矩阵分析与应用（第2版）》](https://item.jd.com/11367945.html)**
++ *图书：美国工程院院士Dimitri P. Bertsekas的[《Introduction to Probability》](https://item.jd.com/11842157.html)*
 
 ## 工程实践
 	-**能熟练运用Git；**
