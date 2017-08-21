@@ -39,7 +39,7 @@
 
 
 
-### 2.强化学习课程
+#### 2.强化学习课程
 
 	-**图书：Sutton的[强化学习](http://incompleteideas.net/sutton/book/the-book.html)**
 
@@ -49,13 +49,13 @@
 
 
 
-### 3.图像处理
+#### 3.图像处理
 
 	-**课程视频：Feifei Li在Stanford开设的[面向可视化识别的卷积神经元网络](http://cs231n.stanford.edu/)**
 
 
 
-### 4.深度学习课程
+#### 4.深度学习课程
 
 
 	-**图书：Sutton的[深度学习](http://www.deeplearningbook.org/)**
