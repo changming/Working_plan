@@ -15,8 +15,8 @@
 
 ## 机器学习理论
 #### 1.机器学习课程	
-	-**课程视频：台湾大学李弘毅教授的[机器学习课程]**(https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
-	-课程视频：*Andrew Ng的在Stanford开设的[机器学习课程]*(https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
+	**课程视频：台湾大学李弘毅教授的[机器学习课程]**(https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
+	课程视频：*Andrew Ng的在Stanford开设的[机器学习课程]*(https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 
 #### 2.强化学习课程
 	-**图书：Sutton的[强化学习]**(http://incompleteideas.net/sutton/book/the-book.html)
