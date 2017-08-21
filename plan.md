@@ -13,10 +13,10 @@
 * [其它资源](###其它资源)
 * [补充说明](###补充说明)
 
-## 机器学习理论
+## 机器学习理论(2.和3.任选其一)
 #### 1.机器学习课程	
 + **课程视频：台湾大学李弘毅教授的[机器学习课程](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)**
-+ 课程视频：*Andrew Ng的在Stanford开设的[机器学习课程](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)*
++ 课程视频：Andrew Ng的在Stanford开设的[机器学习课程](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 
 #### 2.强化学习课程
 + **图书：Sutton的[强化学习](#http://incompleteideas.net/sutton/book/the-book.html)**
@@ -29,7 +29,7 @@
 #### 4.深度学习课程
 + **图书：Sutton的[深度学习](http://www.deeplearningbook.org/)**
 + **课程视频：台湾大学李弘毅教授的[深度学习](https://www.youtube.com/watch?v=IzHoNwlCGnE&list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)**
-+ **课程视频：多伦多大学Hinton教授的[深度学习](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)**
++ 课程视频：多伦多大学Hinton教授的[深度学习](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 
 ## 数学基础	
 + **课程视频：Gilbert Strang在MIT开设的[线性代数](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)**
@@ -54,6 +54,6 @@
 + Sendex。实战狂人，实践入门最佳榜首。问题现说，代码现敲，说理透彻，产量极高。
 
 ## 补充说明
-+ 优先级：**粗体**为必须内容；
++ 优先级：**粗体**为现阶段必须学习内容。
 + 视频课程选择标准：1）公认好课；2）难度与自我水平匹配；3）有课后作业，可以自动评判答案。
 + 视频课程不能取代阅读领域经典教材；学习教材的目的是为了得到良好知识体系，更快理解前沿学术论文；有突破性的idea不可能通过只读论文就得到，离开实验和实践的环节，所谓的灵感可能只是海市蜃楼般的错觉。读论文、做实验、读论文、做实验...biu...顶级论文（2030年）。
